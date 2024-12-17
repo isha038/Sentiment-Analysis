@@ -97,23 +97,6 @@ nltk.download('vader_lexicon')
 
 ---
 
-## Sample Outputs  
-
-1. **VADER Sentiment Scores**:  
-   ```
-   Positive: 0.45  
-   Neutral: 0.35  
-   Negative: 0.20  
-   ```
-
-2. **RoBERTa Predictions**:  
-   - Classifies sentences into `positive`, `neutral`, or `negative`.  
-
-3. **Visualizations**:  
-   - Sentiment distribution across the dataset.  
-   - Comparisons between VADER and RoBERTa sentiment scores.  
-
----
 
 ## Results  
 
